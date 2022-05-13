@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "firstname": "pooja",
+      "lastname": "maurya",
+      "email": "anshika@123gmail.com",
+      "password": "323QWq@",
+      "id": 6
+    },
+    {
+      "firstname": "pooja",
+      "lastname": "maurya",
+      "email": "abc@gmail.com",
+      "password": "123abAS@",
+      "id": 7
+    }
+  ]
+}
